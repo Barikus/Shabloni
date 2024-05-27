@@ -1,0 +1,17 @@
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\Shabloni2.csproj.AssemblyReference.cache
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\Shabloni2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\Shabloni2.AssemblyInfoInputs.cache
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\Shabloni2.AssemblyInfo.cs
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\Shabloni2.csproj.CoreCompileInputs.cache
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\bin\Debug\net8.0\Shabloni2.exe
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\bin\Debug\net8.0\Shabloni2.deps.json
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\bin\Debug\net8.0\Shabloni2.runtimeconfig.json
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\bin\Debug\net8.0\Shabloni2.dll
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\bin\Debug\net8.0\Shabloni2.pdb
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\bin\Debug\net8.0\CustomConsole.dll
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\Shabloni2.csproj.CopyComplete
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\Shabloni2.dll
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\refint\Shabloni2.dll
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\Shabloni2.pdb
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\Shabloni2.genruntimeconfig.cache
+C:\Users\Markus\source\repos\Shabloni2\Shabloni2\obj\Debug\net8.0\ref\Shabloni2.dll
