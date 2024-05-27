@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7xqIXK8e3G4sBNTo8FWdVJRCN8FiZfWVvpdJh6T/XJlTVDeKZzgk0pWtDrlWYfv8S/mrMtAvJnMeZ/MQcedj9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Markus\\source\\repos\\Shabloni_№1\\Shabloni_№1\\Shabloni_№1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Markus\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

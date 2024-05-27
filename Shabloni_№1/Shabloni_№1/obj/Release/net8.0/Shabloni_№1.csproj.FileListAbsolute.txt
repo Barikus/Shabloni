@@ -1,0 +1,14 @@
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\bin\Release\net8.0\Shabloni_№1.exe
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\bin\Release\net8.0\Shabloni_№1.deps.json
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\bin\Release\net8.0\Shabloni_№1.runtimeconfig.json
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\bin\Release\net8.0\Shabloni_№1.dll
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\bin\Release\net8.0\Shabloni_№1.pdb
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\obj\Release\net8.0\Shabloni_№1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\obj\Release\net8.0\Shabloni_№1.AssemblyInfoInputs.cache
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\obj\Release\net8.0\Shabloni_№1.AssemblyInfo.cs
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\obj\Release\net8.0\Shabloni_№1.csproj.CoreCompileInputs.cache
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\obj\Release\net8.0\Shabloni_№1.dll
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\obj\Release\net8.0\refint\Shabloni_№1.dll
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\obj\Release\net8.0\Shabloni_№1.pdb
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\obj\Release\net8.0\Shabloni_№1.genruntimeconfig.cache
+C:\Users\Markus\source\repos\Shabloni_№1\Shabloni_№1\obj\Release\net8.0\ref\Shabloni_№1.dll
